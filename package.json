@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "lodash": "4.17.0",
-    "express": "3.0.0",
+    "express": "3.3.1",
     "package-json-validator": "0.6.3",
     "prompt": "1.1.0",
     "danger": "10.9.0",
