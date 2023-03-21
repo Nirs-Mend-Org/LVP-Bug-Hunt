@@ -10,7 +10,7 @@
     "danger": "10.9.0",
     "axios": "1.0.0",
     "jasmine-node-karma": "1.6.1",
-    "moleculer": "0.10.0",
+    "moleculer": "0.13.6",
     "grunt": "1.0.1",
     "pm2": "5.1.1",
     "mocha": "8.3.2",
